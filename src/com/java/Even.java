@@ -10,7 +10,7 @@ public class Even {
 		}
 		else
 		{
-			System.out.println("Its not even");
+			System.out.println("Its not evenno");
 		}
 	}
 
